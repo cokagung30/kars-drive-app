@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <color name="white">#FFFFFF</color>
+
+    <color name="ateno_blue">#003874</color>
+    <color name="ateno_blue_50">#6687ab</color>
+
+    <color name="dark_jungle_blue">#0F172A</color>
+    <color name="gunmetal">#252F3D</color>
+
+    <color name="golden_poppy">#FFC305</color>
+    <color name="orange">#E3941D</color>
+    <color name="green_salem">#188249</color>
+    <color name="candy_red">#FB0909</color>
+    <color name="ultramarine_blue">#3D79F2</color>
+    
+    <color name="roman_silver">#8B919E</color>
+    <color name="quick_silver">#A0A2A3</color>
+    <color name="cultured">#F7F7F7</color>
+    <color name="platinum">#DFE1E7</color>
+
+    <color name="color_open">#BDBDBD</color>
+    <color name="color_unpaid">#FFAB91</color>
+    <color name="color_paid_customer">#80CBC4</color>
+    <color name="color_confirm_bid">#FFEB3B</color>
+    <color name="color_ondeliver">#42A5F5</color>
+    <color name="color_pickup">#B39DDB</color>
+    <color name="color_wait_payment">#FFCC80</color>
+    <color name="color_on_site">#0097A7</color>
+    <color name="color_paid">#80CBC4</color>
+    <color name="color_completed">#4CAF50</color>
+</resource>

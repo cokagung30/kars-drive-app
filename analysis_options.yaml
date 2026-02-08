@@ -1,0 +1,13 @@
+include: package:very_good_analysis/analysis_options.yaml
+analyzer:
+  errors:
+    avoid_catches_without_on_clauses: ignore
+  exclude:
+    - build/**
+    - lib/**.freezed.dart
+    - lib/**.g.dart
+linter:
+  rules:
+    public_member_api_docs: false
+    cascade_invocations: false
+    depend_on_referenced_packages: false
